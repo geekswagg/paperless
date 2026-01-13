@@ -22,7 +22,7 @@ docutils==0.15.2
 execnet==1.6.1
 factory-boy==2.11.1
 faker==2.0.0
-filelock==3.0.12
+filelock==3.20.3
 filemagic==1.6
 fuzzywuzzy[speedup]==0.15.0
 gunicorn==20.0.4
@@ -73,7 +73,7 @@ text-unidecode==1.2
 toml==0.10.0
 tox==3.7.0
 tzlocal==2.0.0
-urllib3==1.25.3
+urllib3==2.6.3
 virtualenv==16.7.2
 wcwidth==0.1.7
 whitenoise==4.1.3
